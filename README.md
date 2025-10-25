@@ -56,10 +56,11 @@ while(1);
 
  
 **OUTPUT:**
-//BR
-//BR
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **Result:**
 
